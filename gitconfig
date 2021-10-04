@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thibautbutaye@gmail.com
+	name = thibaut butaye
