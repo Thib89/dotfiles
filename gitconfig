@@ -52,3 +52,5 @@
 [user]
 	email = thibautbutaye@gmail.com
 	name = Thibaut Butaye
+[ubut]
+	defaultBranch = master
